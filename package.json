@@ -1,0 +1,32 @@
+{
+  "name": "ui-sdr",
+  "version": "0.1.0",
+  "description": "React based Web UI for SDR Transceiver",
+  "main": "index.js",
+  "dependencies": {
+    "immutability-helper": "^2.4.0"
+  },
+  "devDependencies": {
+    "@vx/responsive": "0.0.136",
+    "browserify": "^14.4.0",
+    "eslint": "^4.7.1",
+    "http-server": "^0.10.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "scripts": {
+    "test": "eslint *.js",
+    "build": "browserify src/app.js > build/app.js",
+    "server": "watch 'npm run bundle' lib/*.js & http-server -c5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/ui-sdr.git"
+  },
+  "author": "AI6YP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drom/ui-sdr/issues"
+  },
+  "homepage": "https://github.com/drom/ui-sdr#readme"
+}
