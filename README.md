@@ -20,7 +20,7 @@ React based Web UI for SDR Transceiver
 
   * AMSAT Kepler parameters : http://www.amsat.org/amsat-new/tools/keps.php
   * Modular set of functions for SGP4 and SDP4 propagation of TLEs : https://github.com/shashwatak/satellite-js
-  * 
+  * Calculate orbital information of satellites : https://github.com/joshuaferrara/node-sgp4
 
 
 
