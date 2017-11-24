@@ -14,7 +14,7 @@ React based Web UI for SDR Transceiver
   * https://github.com/CartoDB
   * https://github.com/Leaflet
   * https://github.com/naturalatlas/geomagnetism
-  
+  * http://www.arrl.org/grid-squares  
 
 ## Sattelites
 
