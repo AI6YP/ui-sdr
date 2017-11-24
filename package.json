@@ -17,6 +17,7 @@
   "scripts": {
     "test": "eslint *.js",
     "build": "browserify src/app.js > build/app.js",
+    "build-map": "browserify src/map.js > build/map.js",
     "server": "watch 'npm run bundle' lib/*.js & http-server -c5"
   },
   "repository": {
