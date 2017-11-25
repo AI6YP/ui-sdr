@@ -13,6 +13,7 @@ React based Web UI for SDR Transceiver
   * https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation
   * https://github.com/CartoDB
   * https://github.com/Leaflet
+  * https://github.com/leaflet-extras/leaflet-providers
   * https://github.com/naturalatlas/geomagnetism
   * http://www.arrl.org/grid-squares  
 
@@ -22,6 +23,3 @@ React based Web UI for SDR Transceiver
   * Modular set of functions for SGP4 and SDP4 propagation of TLEs : https://github.com/shashwatak/satellite-js
   * Calculate orbital information of satellites : https://github.com/joshuaferrara/node-sgp4
   * https://github.com/davidcalhoun/tle.js
-
-
-
