@@ -14,6 +14,9 @@ React based Web UI for SDR Transceiver
   * https://github.com/CartoDB
   * https://github.com/Leaflet
   * https://github.com/leaflet-extras/leaflet-providers
+  * https://github.com/proj4js/proj4js
+  * https://github.com/kartena/Proj4Leaflet
+  * https://en.wikipedia.org/wiki/Azimuthal_equidistant_projection
   * https://github.com/naturalatlas/geomagnetism
   * http://www.arrl.org/grid-squares  
 
