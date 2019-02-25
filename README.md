@@ -19,6 +19,10 @@ React based Web UI for SDR Transceiver
   * https://en.wikipedia.org/wiki/Azimuthal_equidistant_projection
   * https://github.com/naturalatlas/geomagnetism
   * http://www.arrl.org/grid-squares  
+  
+### Offline
+
+  * https://github.com/robertomlsoares/leaflet-offline
 
 ## Sattelites
 
