@@ -19,10 +19,16 @@ React based Web UI for SDR Transceiver
   * https://en.wikipedia.org/wiki/Azimuthal_equidistant_projection
   * https://github.com/naturalatlas/geomagnetism
   * http://www.arrl.org/grid-squares  
+  * https://github.com/googlemaps/google-maps-services-js
   
 ### Offline
 
   * https://github.com/robertomlsoares/leaflet-offline
+  * https://github.com/MazeMap/Leaflet.TileLayer.PouchDBCached
+  * https://github.com/allartk/leaflet.offline
+  
+## Map Server
+  * https://github.com/faradayio/tilesplash
 
 ## Satellites
 
